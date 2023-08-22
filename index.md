@@ -4,8 +4,11 @@ title: Student Blog
 ---
 
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+## All About Me!
+- I'm a junior at Del Norte High School.
+- I have a younger sister who just started middle school
+- My favorite cuisine is Italian, because I love pasta
+- I aspire to have a career in medicine
 
 ## Overview of Hacks, Study and Tangibles
 Blogging in GitHub pages is a way to learn and code at the same time. 
