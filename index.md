@@ -8,7 +8,7 @@ title: Student Blog
 
 
 
-## All About Me!
+## All About Me! 
 - My name is Tanvi Pampati!
 - I'm a junior at Del Norte High School.
 - I play Field Hockey
@@ -16,7 +16,7 @@ title: Student Blog
 - I aspire to have a career in medicine
 
 
-<img src="IMG_7939 (1).jpg" alt="My freeform" height="200" width="100">
+<img src="IMG_7939 (1).jpg" alt="My freeform" height="400" width="300">
 
 <img src="images/emojilaugh-emoji.gif" alt="fun gif" height="100" width="100">
 
