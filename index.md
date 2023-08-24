@@ -4,13 +4,21 @@ title: Student Blog
 ---
 
 
+## **Tanvi's Blog**
+
+
+
 ## All About Me!
 - My name is Tanvi Pampati!
 - I'm a junior at Del Norte High School.
+- I play Field Hockey
 - I have a younger sister who just started middle school
 - I aspire to have a career in medicine
 
-<img src="images/IMG_7939.jpg" alt="My freeform" height="200" width="100">
+
+<img src="IMG_7939 (1).jpg" alt="My freeform" height="200" width="100">
+
+<img src="images/emojilaugh-emoji.gif" alt="fun gif" height="100" width="100">
 
 ## FUN FACTS!!
 - I went to yellowstone national park with my family over the summer
