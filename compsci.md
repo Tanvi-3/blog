@@ -8,8 +8,8 @@ type: plans
 courses: { compsci: {week: 0} }
 ---
 
-|Weeks     | Plans      | Hacks       | Tangibles   |
-| ----     |  :---:     |     :---:    | ---:      |
-| 0       |  Text     |  And More    |    more    |
-| 1        |  Text     |  And More    |    more    |
-| 2        |  Text     |  And More    |    more    |
+|Weeks     | Plans      | Hacks       | Tangibles  |
+| ----     |  :---:     |     :---:   | ---:       |
+| 0        |  Text      |   And More  |    more    |
+| 1        |  Text      |  And More   |    more    |
+| 2        |  Text      |  And More   |    more    |
