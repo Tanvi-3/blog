@@ -24,6 +24,6 @@ title: Student Blog
 - I went to yellowstone national park with my family over the summer
 - My lucky number is 3, because I was born on the 3rd month of the year
 - My favorite movie is Iron Man 2
-test
+
 
 <img src="images/IMG_7936.JPG" alt="Photos in my life" height="400" width="350">
