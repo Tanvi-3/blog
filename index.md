@@ -26,3 +26,7 @@ title: Student Blog
 - My favorite movie is Iron Man 2
 
 <img src="images/IMG_7936.JPG" alt="Photos in my life" height="400" width="350">
+
+|Weeks      | Plans      | Hacks       |
+| ---       |  :---:     |     ---:    |
+| Header    |  Text     |  And More    |
